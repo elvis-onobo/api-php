@@ -2,7 +2,7 @@
 class Database{
     // DB params
     private $host = 'localhost';
-    private $db_name = 'myblog';
+    private $db_name = 'apiphp';
     private $username = 'root';
     private $password = '';
     private $conn;
